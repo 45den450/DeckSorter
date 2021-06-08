@@ -1,0 +1,7 @@
+C:\Users\45DEN\OneDrive\Рабочий стол\Сортировка карт УЦСБ\SortingDeck\SortingDeck\bin\Debug\SortingDeck.exe.config
+C:\Users\45DEN\OneDrive\Рабочий стол\Сортировка карт УЦСБ\SortingDeck\SortingDeck\bin\Debug\SortingDeck.exe
+C:\Users\45DEN\OneDrive\Рабочий стол\Сортировка карт УЦСБ\SortingDeck\SortingDeck\bin\Debug\SortingDeck.pdb
+C:\Users\45DEN\OneDrive\Рабочий стол\Сортировка карт УЦСБ\SortingDeck\SortingDeck\obj\Debug\SortingDeck.csprojAssemblyReference.cache
+C:\Users\45DEN\OneDrive\Рабочий стол\Сортировка карт УЦСБ\SortingDeck\SortingDeck\obj\Debug\SortingDeck.csproj.CoreCompileInputs.cache
+C:\Users\45DEN\OneDrive\Рабочий стол\Сортировка карт УЦСБ\SortingDeck\SortingDeck\obj\Debug\SortingDeck.exe
+C:\Users\45DEN\OneDrive\Рабочий стол\Сортировка карт УЦСБ\SortingDeck\SortingDeck\obj\Debug\SortingDeck.pdb
